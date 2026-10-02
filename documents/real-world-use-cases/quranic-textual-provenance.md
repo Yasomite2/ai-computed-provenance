@@ -1,4 +1,4 @@
-# Qur'anic Textual Provenance and Source Verification
+# Qur'anic Textual Provenance & Source Verification
 
 ## Real-World Scenario
 
