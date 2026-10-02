@@ -4,7 +4,7 @@
 
 A user, researcher, developer, or AI system works with a digital Qur'anic passage.
 
-The text may look simple on the surface, but before it reaches the final reader or model, it may have passed through multiple layers such as digitization, transcription, normalization, translation, annotation, or AI processing.
+The text may look simple on the surface, but before it reaches the final reader or model, it may have passed through multiple layers such as digitization, transcription, normalization, translation, annotation, AI processing, and interpretive assumptions that may not have been independently verified.
 
 The goal of this use case is to make those layers visible.
 
